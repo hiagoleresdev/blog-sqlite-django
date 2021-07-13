@@ -3,3 +3,5 @@
 
 ![Idex do site](https://github.com/hiagoleresdev/SimpleBlog-Django/blob/main/indexSite.png)
 
+![Idex do site](https://github.com/hiagoleresdev/SimpleBlog-Django/blob/main/telaBlog.png)
+
