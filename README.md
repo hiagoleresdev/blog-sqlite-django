@@ -4,4 +4,4 @@
 ![Idex do site](https://github.com/hiagoleresdev/SimpleBlog-Django/blob/main/indexSite.png)
 
 ![Idex do site](https://github.com/hiagoleresdev/SimpleBlog-Django/blob/main/telaBlog.png)
-
+Os posts são adicionados pelo modelo chamado Post, dentro do admin do Django, além disso qualquer usuário pode fazer comentários nos posts.
